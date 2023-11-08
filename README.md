@@ -9,7 +9,7 @@
 …なんちゃって
 
 ### USAGE
-- act-2 ジオコーディングを行い，住所を緯度経度に変換する
+- act-2
 ![act-2](fig/act-2.png "act-2")
 
 License
